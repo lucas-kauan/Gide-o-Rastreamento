@@ -80,7 +80,7 @@ header {
 }
 
 .container-content-main section p {
-    font-size: 23px;
+    font-size: 18px;
     font-weight: 500;
 }
 
@@ -90,11 +90,11 @@ main {
 
 .logo-main {
     position: absolute;
-    top: 27%;
+    top: 25%;
     left: 50%;
     transform: translate(-50%, -50%);
-    height: 400px;
-    width: 324px;
+    height:350px;
+    width: 284px;
     z-index: -2;
     opacity: 0.4;
 }
@@ -129,7 +129,7 @@ main {
 }
 
 .container-servicos section ol li p {
-    font-size: 18px;
+    font-size: 17px;
     font-weight: normal;
 }
 
